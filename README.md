@@ -1,4 +1,4 @@
-# Secure File Encryption and Decryption with Fernet Key
+# Secure File Encryption and Decryption 
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
@@ -22,7 +22,7 @@ Before using this project, ensure you have Python 3.8 or higher installed on you
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/hasanfirnas/Secure-file-encrypt-decrypt.git
+   git clone https://github.com/Sailakshmangoud/Secure-file-encrypt-decrypt/.git
     ```
 2. Navigate to the project directory:
 
