@@ -1,4 +1,16 @@
-# Secure File Encryption and Decryption 
+# Lakshman - Secure File Encryption and Decryption 
+**COMPANY** : CODTECH IT SOLUTIONS
+
+**NAME** : S SAI LAKSHMAN GOUD
+
+**INTERN ID** : CT08LJQ
+
+**DOMAIN** : CYBER SECURITY & ETHICAL HACKING
+
+
+**BATCH DURATION** : January 30th,2025 to March 1st,2025
+
+**mentor name** : NEELA SANTHOSH KUMAR
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
